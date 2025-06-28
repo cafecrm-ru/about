@@ -28,6 +28,7 @@
 
 ## Поддержка
 
-Если возникли вопросы или проблемы, свяжитесь с нами:  
-- Команда `/support` в [@cafecrm_client_bot](https://t.me/cafecrm_client_bot)   
-- Telegram: [@cafecrm_support](https://t.me/cafecrm_support)  
+Если у вас есть вопросы или предложения, не стесняйтесь связаться с нами:
+ - Telegram: [@cafecrm_support](https://t.me/cafecrm_support)
+- Команда `/support` в [@cafecrm_client_bot](https://t.me/cafecrm_client_bot)
+- Запрос в [GitHub Issues](https://github.com/cafecrm-ru/about/issues)
